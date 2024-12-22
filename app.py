@@ -126,4 +126,4 @@ if generate_button:
             st.error(f"An error occurred: {str(e)}")
 
 st.markdown("---")
-st.markdown("Built with CrewAI, Streamlit and powered by Cohere's Command R7B")
+st.markdown("Built by Karteek Menda")
